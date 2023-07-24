@@ -4,8 +4,11 @@ itsdangerous
 Jinja2
 MarkupSafe
 Werkzeug
+numpy
 scipy
-flasgger
+scikit-learn
+matplotlib
+pandas
 streamlit
 random
 string
