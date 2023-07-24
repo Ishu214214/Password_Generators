@@ -6,6 +6,5 @@ MarkupSafe
 Werkzeug
 scipy
 streamlit
-random<=2 1.0.1
 string
 
