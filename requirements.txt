@@ -6,14 +6,10 @@ MarkupSafe
 Werkzeug
 numpy
 scipy
-scikit-learn
-matplotlib
-pandas
+
 flasgger
 streamlit
-nltk
-qrcode
-cv2
+
 random
 string
 
